@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   id="svg3046"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="TI 84.svg">
+  <defs
+     id="defs3048" />
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="490"
+     inkscape:cy="499.83496"
+     inkscape:current-layer="layer1"
+     id="namedview3050"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3052">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="18"
+       y="76.094482"
+       id="text3055"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3057"
+         x="18"
+         y="76.094482">Insert a list</tspan><tspan
+         sodipodi:role="line"
+         x="18"
+         y="91.094482"
+         id="tspan3829"><tspan
+           style="fill:#0000ff"
+           id="tspan3831">  List</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="18"
+         y="106.09448"
+         id="tspan3863">  Edit Enter  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="462"
+       y="105.09448"
+       id="text3833"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3835"
+         x="462"
+         y="105.09448">rref</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="17"
+       y="29.094482"
+       id="text3837"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3839"
+         x="17"
+         y="29.094482">Exit</tspan><tspan
+         sodipodi:role="line"
+         x="17"
+         y="44.094482"
+         id="tspan3841"
+         style="fill:#0000ff">  Quit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="16"
+       y="146.09448"
+       id="text3845"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="16"
+         y="146.09448"
+         style="fill:#000000"
+         id="tspan3851">Regression Line</tspan><tspan
+         sodipodi:role="line"
+         x="16"
+         y="161.09448"
+         style="fill:#0000ff"
+         id="tspan3865">  y=</tspan><tspan
+         sodipodi:role="line"
+         x="16"
+         y="176.09448"
+         style="fill:#000000"
+         id="tspan3855">  Plot1 Enter</tspan><tspan
+         sodipodi:role="line"
+         x="16"
+         y="191.09448"
+         style="fill:#000000"
+         id="tspan3867">  On</tspan><tspan
+         sodipodi:role="line"
+         x="16"
+         y="206.09448"
+         style="fill:#000000"
+         id="tspan3869">  Plot </tspan><tspan
+         sodipodi:role="line"
+         x="16"
+         y="221.09448"
+         style="fill:#000000"
+         id="tspan3871">  XList: L1</tspan><tspan
+         sodipodi:role="line"
+         x="16"
+         y="236.09448"
+         style="fill:#000000"
+         id="tspan3873">  YList: L2</tspan><tspan
+         sodipodi:role="line"
+         x="16"
+         y="251.09448"
+         style="fill:#000000"
+         id="tspan3875">  Window Xmin Xmax Xscal Ymin Ymax Yscal</tspan><tspan
+         sodipodi:role="line"
+         x="16"
+         y="266.09448"
+         style="fill:#000000"
+         id="tspan3879">  Graph</tspan><tspan
+         sodipodi:role="line"
+         x="16"
+         y="281.09448"
+         style="fill:#000000"
+         id="tspan3883">  Stat</tspan><tspan
+         sodipodi:role="line"
+         x="16"
+         y="296.09448"
+         style="fill:#000000"
+         id="tspan3885">  Calc</tspan><tspan
+         sodipodi:role="line"
+         x="16"
+         y="311.09448"
+         style="fill:#000000"
+         id="tspan3859">  LinReg L1,L2 Enter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="20"
+       y="342.09448"
+       id="text3901"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3903"
+         x="20"
+         y="342.09448">Display All Functions</tspan><tspan
+         sodipodi:role="line"
+         x="20"
+         y="357.09448"
+         id="tspan3905"
+         style="fill:#0000ff">  Catalog</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="613"
+       y="91.094482"
+       id="text3909"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3911"
+         x="613"
+         y="91.094482">Map </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="593"
+       y="208.09448"
+       id="text3913"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3915"
+         x="593"
+         y="208.09448">gcd </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="402"
+       y="343.09448"
+       id="text3012"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="402"
+         y="343.09448"
+         id="tspan3018">single value</tspan><tspan
+         sodipodi:role="line"
+         x="402"
+         y="358.09448"
+         id="tspan3026"> binomcdf(trials, probability, value</tspan><tspan
+         sodipodi:role="line"
+         x="402"
+         y="373.09448"
+         id="tspan3028">list of all values</tspan><tspan
+         sodipodi:role="line"
+         x="402"
+         y="388.09448"
+         id="tspan3034">  binomcdf(trials, probability</tspan><tspan
+         sodipodi:role="line"
+         x="402"
+         y="403.09448"
+         id="tspan3024" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="54"
+       y="409.09448"
+       id="text3040"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3042"
+         x="54"
+         y="409.09448">23 STO&gt; <tspan
+   style="fill:#00ff00"
+   id="tspan3046"><tspan
+     style="fill:#008000"
+     id="tspan3050">E </tspan></tspan></tspan><tspan
+         sodipodi:role="line"
+         x="54"
+         y="424.09448"
+         id="tspan3044">23 -&gt; <tspan
+   style="fill:#008000"
+   id="tspan3048">E</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="151"
+       y="45.094482"
+       id="text3052"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3054"
+         x="151"
+         y="45.094482">Radian</tspan><tspan
+         sodipodi:role="line"
+         x="151"
+         y="60.094482"
+         id="tspan3056">  sin(360) == .95 </tspan><tspan
+         sodipodi:role="line"
+         x="151"
+         y="75.094482"
+         id="tspan3058">Degree</tspan><tspan
+         sodipodi:role="line"
+         x="151"
+         y="90.094482"
+         id="tspan3077">  sin(360) == 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="338"
+       y="74.094482"
+       id="text3079"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3081"
+         x="338"
+         y="74.094482">Graph</tspan><tspan
+         sodipodi:role="line"
+         x="338"
+         y="89.094482"
+         id="tspan3083">  List</tspan></text>
+  </g>
+</svg>

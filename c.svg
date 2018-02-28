@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="792pt"
+   height="612pt"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="c.svg">
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     inkscape:document-units="in"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="512.125"
+     inkscape:cy="460"
+     inkscape:current-layer="layer1"
+     id="namedview2989"
+     showgrid="false"
+     inkscape:window-width="1312"
+     inkscape:window-height="744"
+     inkscape:window-x="54"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2991">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="158.92818"
+       y="223.72285"
+       id="text2994"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2996"
+         x="158.92818"
+         y="223.72285" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="39.996094"
+       y="48.304688"
+       id="text2994-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="39.996094"
+         y="48.304688"
+         id="tspan3035">perror(*str)</tspan><tspan
+         sodipodi:role="line"
+         x="39.996094"
+         y="63.304688"
+         id="tspan3039">read(fd,str,stlen)</tspan><tspan
+         sodipodi:role="line"
+         x="39.996094"
+         y="78.304688"
+         id="tspan3043">write(fd,str,strlen)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="84.996094"
+       y="125.30469"
+       id="text2998"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="84.996094"
+         y="125.30469"
+         id="tspan3004" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="20.996094"
+       y="103.30469"
+       id="text3158"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3160"
+         x="20.996094"
+         y="103.30469" /><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="118.30469"
+         id="tspan4025">Threads and Processes</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="133.30469"
+         id="tspan4035">  github.com/halayli/lthread</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="148.30469"
+         id="tspan4033">Introduction</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="163.30469"
+         id="tspan4029">  http://claymore.engineer.gvsu.edu/~steriana/226/C.CheatSheet.pdf</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="178.30469"
+         id="tspan4027">General Learning</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="193.30469"
+         id="tspan3164">  http://news.ycombinator.com/item?id=580332</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="208.30469"
+         id="tspan3640">  http://kernelnewbies.org/</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="223.30469"
+         id="tspan3655">Optimizations</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="238.30469"
+         id="tspan3657">  eventhelix.com/realtimemantra/basics/optimizingcandcppcode.htm</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="253.30469"
+         id="tspan3659">Hacking Linux Kernel</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="268.30469"
+         id="tspan3661">  http://www.kernel.org/doc/htmldocs/kernel-hacking.html</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="283.30469"
+         id="tspan4045">C Preprossor</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="298.30469"
+         id="tspan4047">  http://www.cs.utah.edu/dept/old/texinfo/cpp/cpp.html</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="313.30469"
+         id="tspan3157">Reading Complex C Statements</tspan><tspan
+         sodipodi:role="line"
+         x="20.996094"
+         y="328.30469"
+         id="tspan3159">  http://stackoverflow.com/questions/9817734/meaning-of-complex-c-syntax</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="26"
+       y="233"
+       id="text3582"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="26"
+         y="233"
+         id="tspan3324" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="25"
+       y="345"
+       id="text2999"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3001"
+         x="25"
+         y="345">Sockets</tspan><tspan
+         sodipodi:role="line"
+         x="25"
+         y="360"
+         id="tspan3047">  http://www.softlab.ntua.gr/facilities/documentation/unix/unix-socket-faq/unix-socket-faq.html</tspan><tspan
+         sodipodi:role="line"
+         x="25"
+         y="375"
+         id="tspan3003">  http://en.wikipedia.org/wiki/Berkeley_sockets</tspan><tspan
+         sodipodi:role="line"
+         x="25"
+         y="390"
+         id="tspan3028">  http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html</tspan><tspan
+         sodipodi:role="line"
+         x="25"
+         y="405"
+         id="tspan3049">  http://gd.tuwien.ac.at/languages/c/programming-bbrown/c_075.htm</tspan><tspan
+         sodipodi:role="line"
+         x="25"
+         y="420"
+         id="tspan3644">Overview of Networks</tspan><tspan
+         sodipodi:role="line"
+         x="25"
+         y="435"
+         id="tspan3844">  http://heather.cs.ucdavis.edu/~matloff/Networks/Intro/NetIntro.pdf</tspan><tspan
+         sodipodi:role="line"
+         x="25"
+         y="450"
+         id="tspan3848">Shared Libraries</tspan><tspan
+         sodipodi:role="line"
+         x="25"
+         y="465"
+         id="tspan3846">  http://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="29"
+       y="138"
+       id="text3296"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="29"
+         y="138"
+         id="tspan3300" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="185"
+       y="30"
+       id="text3306"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3308"
+         x="185"
+         y="30">Reference</tspan><tspan
+         sodipodi:role="line"
+         x="185"
+         y="45"
+         id="tspan3310">  http://www.acm.uiuc.edu/webmonkeys/book/c_guide/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="19"
+       y="19"
+       id="text3312"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3314"
+         x="19"
+         y="19">http://elinux.org/ - linux on different platforms</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="49"
+       y="497"
+       id="text3326"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3328"
+         x="49"
+         y="497">http://gcc.gnu.org/onlinedocs/cpp/Macros.html#Macros</tspan><tspan
+         sodipodi:role="line"
+         x="49"
+         y="512"
+         id="tspan4039" /><tspan
+         sodipodi:role="line"
+         x="49"
+         y="527"
+         id="tspan4037">XMacros</tspan><tspan
+         sodipodi:role="line"
+         x="49"
+         y="542"
+         id="tspan3330">#define COLOR_TABLE \</tspan><tspan
+         sodipodi:role="line"
+         x="49"
+         y="557"
+         id="tspan3332">X(red, &quot;red&quot;)       \</tspan><tspan
+         sodipodi:role="line"
+         x="49"
+         y="572"
+         id="tspan3334">X(green, &quot;green&quot;)   \</tspan><tspan
+         sodipodi:role="line"
+         x="49"
+         y="587"
+         id="tspan3336">X(blue, &quot;blue&quot;)</tspan><tspan
+         sodipodi:role="line"
+         x="49"
+         y="602"
+         id="tspan3338" /><tspan
+         sodipodi:role="line"
+         x="49"
+         y="617"
+         id="tspan3340">#define X(a, b) a,</tspan><tspan
+         sodipodi:role="line"
+         x="49"
+         y="632"
+         id="tspan3342">enum COLOR {</tspan><tspan
+         sodipodi:role="line"
+         x="49"
+         y="647"
+         id="tspan3344">  COLOR_TABLE</tspan><tspan
+         sodipodi:role="line"
+         x="49"
+         y="662"
+         id="tspan3346">};</tspan><tspan
+         sodipodi:role="line"
+         x="49"
+         y="677"
+         id="tspan3348">#undef X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="246"
+       y="571"
+       id="text3350"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3352"
+         x="246"
+         y="571">#define STRINGIFY(x) #x</tspan><tspan
+         sodipodi:role="line"
+         x="246"
+         y="586"
+         id="tspan3354">#define TOSTRING(x) STRINGIFY(x)</tspan><tspan
+         sodipodi:role="line"
+         x="246"
+         y="601"
+         id="tspan3356">#define AT __FILE__ &quot;:&quot; TOSTRING(__LINE__)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="346"
+       y="116"
+       id="text4041"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4043"
+         x="346"
+         y="116">Interactive Linux Kernel http://hackerne.ws/item?id=3689232</tspan><tspan
+         sodipodi:role="line"
+         x="346"
+         y="131"
+         id="tspan3177">Code Generation http://www.pearltrees.com/#/N-fa=554617&amp;N-u=1_46351&amp;N-p=3254890&amp;N-s=1_557815&amp;N-f=1_557815</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="501"
+       y="199"
+       id="text3614"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3616"
+         x="501"
+         y="199">Writing Device Drivers Linux freesoftwaremagazine.com/articles/drivers_linux</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="534"
+       y="246"
+       id="text3167"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3169"
+         x="534"
+         y="246">Exploit Linux Machines Through Fun Challanges http://hackerne.ws/item?id=3814088</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="649"
+       y="439"
+       id="text4052"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4054"
+         x="649"
+         y="439">Make Your Own OS</tspan><tspan
+         sodipodi:role="line"
+         x="649"
+         y="454"
+         id="tspan4056">  http://wiki.osdev.org/Beginner_Mistakes#OS_Emulation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="532"
+       y="283"
+       id="text4544"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4546"
+         x="532"
+         y="283">C Server https://github.com/lpereira/lwan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="526"
+       y="318"
+       id="text3056"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3058"
+         x="526"
+         y="318">UNDERSTANDING LINUX http://news.ycombinator.com/item?id=4597647</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="792pt"
+   height="612pt"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="assembly.svg">
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     inkscape:document-units="in"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="490"
+     inkscape:cy="340"
+     inkscape:current-layer="layer1"
+     id="namedview2989"
+     showgrid="false"
+     inkscape:window-width="1312"
+     inkscape:window-height="744"
+     inkscape:window-x="54"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2991">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="13"
+       y="24"
+       id="text2994"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2996"
+         x="13"
+         y="24">Resources http://cis.csuohio.edu/~somos/asmx86.html</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="39"
+         id="tspan3202">  The Art of Assembyl Language http://homepage.mac.com/randyhyde/webster.cs.ucr.edu/www.artofasm.com/index.html</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="54"
+         id="tspan3210">  Good x86 Assembly book http://stackoverflow.com/questions/4845/good-x86-assembly-book</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="69"
+         id="tspan3214">  Teach how to program and history http://en.wikibooks.org/wiki/X86_Assembly</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="84"
+         id="tspan3113">  Intro to coding Assembly http://www.cin.ufpe.br/~if817/arquivos/asmtut/</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="99"
+         id="tspan3212">Intel Reference http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="114"
+         id="tspan3192" /><tspan
+         sodipodi:role="line"
+         x="13"
+         y="129"
+         id="tspan3119">Assembly for C programmers http://hackerne.ws/item?id=3754150</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="144"
+         id="tspan3194">Linux Assembly Already Understand http://asm.sourceforge.net/</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="159"
+         id="tspan3196" /><tspan
+         sodipodi:role="line"
+         x="13"
+         y="174"
+         id="tspan3198">GCC output readable assembyl http://stackoverflow.com/questions/1289881/using-gcc-to-produce-readable-assembly</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="189"
+         id="tspan3012" /><tspan
+         sodipodi:role="line"
+         x="13"
+         y="204"
+         id="tspan3020">Advice http://stackoverflow.com/questions/1575948/advice-for-learning-linux-x86-64-assembly-documentation</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="219"
+         id="tspan3014" /><tspan
+         sodipodi:role="line"
+         x="13"
+         y="234"
+         id="tspan3016">Reverse Engineer http://stackoverflow.com/questions/6481668/protecting-executable-from-reverse-engineering</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="249"
+         id="tspan3130">Assembly and Disassembly an Introduction http://lucifer.phiral.net/linuxasmone.htm</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="264"
+         id="tspan3132" /><tspan
+         sodipodi:role="line"
+         x="13"
+         y="279"
+         id="tspan3134">Science and Techonolgy http://www.swansontec.com/index.html</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="294"
+         id="tspan3136" /><tspan
+         sodipodi:role="line"
+         x="13"
+         y="309"
+         id="tspan3138">Paul Hsiesh x86 Assembly Page http://www.azillionmonkeys.com/qed/asm.html#optimization</tspan><tspan
+         sodipodi:role="line"
+         x="13"
+         y="324"
+         id="tspan2998" /><tspan
+         sodipodi:role="line"
+         x="13"
+         y="339"
+         id="tspan3010">Operating Systems http://stackoverflow.com/questions/1224617/how-can-i-build-a-small-operating-system-on-an-old-desktop-computer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="18"
+       y="391"
+       id="text2995"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2997"
+         x="18"
+         y="391">MASM, TASM, NASM, or Gas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="19"
+       y="413"
+       id="text3140"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3142"
+         x="19"
+         y="413">X window System http://www.tuxfiles.org/linuxhelp/xwindows.html</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="190"
+       y="456"
+       id="text3408"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3410"
+         x="190"
+         y="456">SIMPLE OS http://mikeos.berlios.de/write-your-own-os.html</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="43"
+       y="557"
+       id="text3011"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3013"
+         x="43"
+         y="557">vncserver, vncviewer, vncpasswd, and vncconnect</tspan></text>
+  </g>
+</svg>

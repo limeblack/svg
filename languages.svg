@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="792pt"
+   height="612pt"
+   id="svg3027"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="languages.svg">
+  <defs
+     id="defs3029" />
+  <sodipodi:namedview
+     inkscape:document-units="in"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="490"
+     inkscape:cy="340"
+     inkscape:current-layer="layer1"
+     id="namedview3031"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3033">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="37"
+       y="74"
+       id="text3055"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3057"
+         x="37"
+         y="74">Clojure - Functional Programming For JVM http://java.ociweb.com/mark/clojure/article.html</tspan><tspan
+         sodipodi:role="line"
+         x="37"
+         y="89"
+         id="tspan3059">Clojure Docs http://clojuredocs.org/quickref/Clojure%20Core</tspan><tspan
+         sodipodi:role="line"
+         x="37"
+         y="104"
+         id="tspan3061">Learn Erlang http://learnyousomeerlang.com/introduction#about-this-tutorial</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="674"
+       y="45"
+       id="text3063"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3065"
+         x="674"
+         y="45">http://99-bottles-of-beer.net/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="129.14844"
+       y="162.12598"
+       id="text3584"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3586"
+         x="129.14844"
+         y="162.12598">Japanese</tspan><tspan
+         sodipodi:role="line"
+         x="129.14844"
+         y="177.12598"
+         id="tspan3588">  Cheatsheet http://www.scribd.com/doc/399045/Learn-Japanese-Cheat-Sheet</tspan><tspan
+         sodipodi:role="line"
+         x="129.14844"
+         y="192.12598"
+         id="tspan3590">  Blog http://www.tofugu.com/category/learn-japanese/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="54"
+       y="296"
+       id="text3515"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3517"
+         x="54"
+         y="296">lua.org/manual/5.1/manual.html</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="412"
+       y="241"
+       id="text3591"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3593"
+         x="412"
+         y="241">Acronyms Technology acronym-guide.com/technology-acronyms.php</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="376"
+       y="308"
+       id="text3333"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="376"
+         y="308"
+         id="tspan3341">Plan 9 Intro http://doc.cat-v.org/plan_9/programming/c_programming_in_plan_9</tspan><tspan
+         sodipodi:role="line"
+         x="376"
+         y="323"
+         id="tspan3345">Why Plan 9 hasn't worked http://news.ycombinator.com/item?id=447435</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="86"
+       y="396"
+       id="text3583"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3585"
+         x="86"
+         y="396">Hack Password Lion http://www.hackmac.org/hacks/crack-lion-password-hashes/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="43"
+       y="444"
+       id="text3854"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3856"
+         x="43"
+         y="444">SQL Injection </tspan><tspan
+         sodipodi:role="line"
+         x="43"
+         y="459"
+         id="tspan3858">  http://sqlmap.sourceforge.net/demo.html</tspan><tspan
+         sodipodi:role="line"
+         x="43"
+         y="474"
+         id="tspan3864">  http://stackoverflow.com/questions/190435/how-can-i-test-my-web-site-for-sql-injection-attacks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="25"
+       y="30"
+       id="text4095"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4097"
+         x="25"
+         y="30">Spanish speakfromday1.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="20"
+       y="517"
+       id="text4088"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4090"
+         x="20"
+         y="517">How to read Korean in 15 minutes http://news.ycombinator.com/item?id=3880837</tspan></text>
+  </g>
+</svg>
